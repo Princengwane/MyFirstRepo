@@ -1,3 +1,4 @@
+What I have learned from this course
 I have learned how to create a repository and how to use github.
 How to use Pull and ush request
 I have learned to use sandboxes and terminals.
