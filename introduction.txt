@@ -1,1 +1,6 @@
+Brief Introduction About Myself
 
+Hi My name is Khumbulani Prince Hlongwane, I am a Software Engineering Graduate
+I am proficient in Python, Java, SQL and Big Data Analytics tools like Power BI and Azure.
+Skilled in driving brand growth, exceeding sales targets and optimizing operational efficiency through technology.
+Passionate about innovation, data-driven decision-making and delivering measurable results.
